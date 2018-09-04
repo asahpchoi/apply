@@ -1,1 +1,1 @@
-git push --recurse-submodules=on-demand
+./src/app/core/add.bat
